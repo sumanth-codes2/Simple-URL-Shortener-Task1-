@@ -49,9 +49,7 @@ Shorten a URL:
 
 Send a POST request to http://localhost:3000/shorten with a JSON payload:
 
-{
-  "url": "https://www.facebook.com"
-}
+
 
 
 Response:
@@ -67,7 +65,6 @@ Access the shortened URL in your browser or via GET request:
 
 http://localhost:3000/r-jdbqC0
 
-You will be redirected to https://www.facebook.com.
 
 
 
@@ -84,7 +81,4 @@ Acknowledgments
 Express.js for the backend framework
 [Your Database Choice] for the database
 
-
-
-Feel free to adjust the instructions based on the specific details of your project!
 
